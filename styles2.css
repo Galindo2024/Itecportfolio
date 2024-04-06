@@ -1,0 +1,16 @@
+
+.box{
+  width: 800px;
+  padding: 10px;
+  background: aliceblue;
+  box-shadow: black;
+  border-radius: 10px;
+  position: center;
+}
+
+a{
+  padding: 20px;
+  position: relative;
+  left: 20px;
+  color: crimson;
+}

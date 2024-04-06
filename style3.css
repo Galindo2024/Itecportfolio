@@ -1,0 +1,61 @@
+
+body {
+    font-family: Arial, sans-serif;
+ background-color: rgba(255, 234, 204, 0.76);
+    padding: 20px;
+
+    height: 100%;
+ 
+   
+}
+h1 {
+    text-align: center;
+    color: #333;
+}
+.menu {
+     background-image: url(bkg1.jpg);
+     background-repeat: repeat;
+   
+     
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,.3);
+}
+.item {
+    margin-bottom: 15px;
+}
+.item h2 {
+    margin-top: 0;
+    color: #eee5e5;
+}
+.item p {
+    margin-bottom: 5px;
+    color: #fffbfb;
+}
+.item .price {
+    font-weight: bold;
+    color: #fff7f7;
+}
+img{
+  height: 18%;
+  width: 18%;
+
+}
+
+.box{
+  width: 800px;
+  padding: 10px;
+  background: aliceblue;
+  box-shadow: black;
+  border-radius: 10px;
+  position: center;
+}
+
+a{
+  padding: 20px;
+  position: relative;
+  left: 20px;
+  color: crimson;
+}
